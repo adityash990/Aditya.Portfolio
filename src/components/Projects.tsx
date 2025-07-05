@@ -22,12 +22,12 @@ const Projects = () => {
       featured: true
     },
     {
-      title: 'DSA Quiz',
-      description: 'Developed an interactive DSA Quiz platform to help users practice fundamental data structures and algorithm concepts through real-time questions and logic-based challenges.',
-      image: 'https://i.ibb.co/BKtgHpTt/Screenshot-2025-07-02-130929-pxbee-minitools-enhance-20250702131348.jpg',
-      tech: ['JavaScript', 'DSA Fundamentals', 'HTML5 & CSS3', 'UI/UX'],
-      github: 'https://github.com/adityash990/DSAQuiz',
-      live: 'https://dsa-quiz-two.vercel.app/',
+      title: 'CollegeInsights India',
+      description: 'Developed an interactive college insights platform enabling students to explore institutes, compare options, and access real-time reviews to make informed academic decisions.',
+      image: 'https://i.ibb.co/zhR0vvBN/Screenshot-2025-07-05-121301.png',
+      tech: ['TypeScript', 'React.js', 'Chart.js', 'SQL',],
+      github: 'https://github.com/adityash990/College_Insight_India',
+      live: 'https://college-insight-india.vercel.app/',
       featured: false
     },
     {
